@@ -1,3 +1,3 @@
 # Forkify Project
 
-Recipie application with costume recipe uploads.
+Recipie application with costume recipe upload.
